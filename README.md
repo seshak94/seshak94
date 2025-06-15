@@ -10,27 +10,25 @@
 ## 🚀 Featured Projects
 
 ### 🧠 Deep Learning
-- **Customer Churn Prediction** – Neural networks to predict churn using Keras (75.6% accuracy)  
-- **AI Chatbot Development** – NLP-based chatbot using NLTK, regex, and rule-based logic  
-- **Apple Stock Forecasting (LSTM)** – Predicting Apple stock price with LSTM time series models
+- 🔗 [**Customer Churn Prediction**](https://github.com/seshak94/customer-churn-prediction) – Neural networks to predict churn using Keras (75.6% accuracy)  
+- 🔗 [**Rule-Based AI Chatbot (NLP)**](https://github.com/seshak94/rule-based-chatbot-nlp) – NLP-based chatbot using NLTK, regex, and rule-based logic  
+- 🔗 [**Stock Price Forecasting (LSTM)**](https://github.com/seshak94/stock-price-forecasting-lstm) – Predicting Apple stock price with LSTM time series models
 
-### 🐍 Python / Machine Learning
-- **Web Scraping Project** – Extracted structured data using BeautifulSoup & requests  
-- **COVID-19 Trend Analysis & Forecasting** – Used Prophet for case prediction with Plotly dashboards  
-- **Baby Name Trend Analysis** – U.S. naming trends via Pandas, Zipfile, Matplotlib  
-- **Image Classification (Cats vs Dogs)** – ML classifiers with Random Forest, NumPy  
-- **Heart Disease Prediction** – Trained ML models on UCI dataset for risk classification  
-- **Flight Price Prediction** – Built regression model with RF, achieving MAPE of 7.3%  
-- **Restaurant Revenue Prediction** – Revenue estimation using regression on restaurant data  
-- **Credit Score Classification** – RF + GridSearchCV on 100,000 record financial dataset  
-- **Bio-Signal-Based Smoking Classification** – Vital-sign-based prediction model (78%+ accuracy)  
-- **Credit Card Fraud Detection** – Classification using anonymized transaction dataset  
-- **Census Income Classification** – Predicting income level using UCI Census dataset  
-- **Netflix Recommendation Engine** – Content-based filtering using TF-IDF & cosine similarity
+### 🐍 Python / Machine Learning 
+- 🔗 [**COVID-19 Trend Analysis & Forecasting**](https://github.com/seshak94/covid19-trend-analysis) – Used Prophet for case prediction with Plotly dashboards  
+- 🔗 [**Baby Name Trend Analysis**](https://github.com/seshak94/baby-name-trend-analysis) – U.S. naming trends via Pandas, Zipfile, Matplotlib  
+- 🔗 [**Image Classification (Cats vs Dogs)**](https://github.com/seshak94/image-classification-cats-vs-dogs) – ML classifiers with Random Forest, NumPy  
+- 🔗 [**Heart Disease Prediction**](https://github.com/seshak94/heart-disease-prediction) – Trained ML models on UCI dataset for risk classification  
+- 🔗 [**Flight Price Prediction**](https://github.com/seshak94/flight-price-prediction) – Built regression model with RF, achieving MAPE of 7.3%  
+- 🔗 [**Restaurant Revenue Prediction**](https://github.com/seshak94/restaurant-revenue-prediction) – Revenue estimation using regression on restaurant data  
+- 🔗 [**Credit Score Classification**](https://github.com/seshak94/credit-score-classification) – RF + GridSearchCV on 100,000 record financial dataset  
+- 🔗 [**Bio-Signal-Based Smoking Classification**](https://github.com/seshak94/biosignal-smoking-classification) – Vital-sign-based prediction model (78%+ accuracy) 
+- 🔗 [**Census Income Classification**](https://github.com/seshak94/census-income-classification) – Predicting income level using UCI Census dataset  
+- 🔗 [**Netflix Recommendation Engine**](https://github.com/seshak94/netflix-recommendation-engine) – Content-based filtering using TF-IDF & cosine similarity
 
 ### 📊 Power BI Dashboards
-- **Student Purchase Behavior Dashboard** – Dynamic Power BI dashboard with RLS and cloud refresh  
-- **Admissions & Shipping Cost Dashboards** – Advanced Power BI dashboards with geo-mapping, top-down/bottom-up analytics
+- 🔗 [**Student Survey Purchase Dashboard**](https://github.com/seshak94/student-survey-dashboard-powerbi) – Dynamic Power BI dashboard with RLS and cloud refresh  
+- 🔗 [**University Admissions & Shipping Cost Dashboard**](https://github.com/seshak94/university-shipping-dashboard-powerbi) – Advanced Power BI dashboards with geo-mapping, top-down/bottom-up analytics
 
 ---
 
